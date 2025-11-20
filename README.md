@@ -90,7 +90,7 @@ pip install -r requirements.txt
 
 ### **2. Run the FastAPI server**
 ```
-uvicorn main:app --reload --port 8000
+uvicorn main:app --reload --port 9000
 ```
 
 The API will be available at:
